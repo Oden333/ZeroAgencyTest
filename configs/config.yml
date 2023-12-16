@@ -1,0 +1,10 @@
+port: "8080"
+
+
+db:
+  host: "localhost"
+  port: "5437"
+  username: "postgres"
+  dbname: "ZAtest"
+  sslmode: "disable"
+  password: "qwerty"
